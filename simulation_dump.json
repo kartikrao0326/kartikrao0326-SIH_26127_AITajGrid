@@ -1,0 +1,345 @@
+{
+  "events": [
+    {
+      "id": 39,
+      "plate_raw": "DL12IE5515",
+      "node_id": "SEC2-N2",
+      "timestamp": "2026-09-18T02:17:35.651867",
+      "confidence": 0.97,
+      "actual_plate_hidden": "DL12IE5515"
+    },
+    {
+      "id": 14,
+      "plate_raw": "DL14W6228",
+      "node_id": "SEC2-N2",
+      "timestamp": "2026-09-18T02:18:05.651867",
+      "confidence": 0.9,
+      "actual_plate_hidden": "DL14W6228"
+    },
+    {
+      "id": 1,
+      "plate_raw": "DL4U6573",
+      "node_id": "SEC3-N1",
+      "timestamp": "2026-09-18T02:18:47.651867",
+      "confidence": 0.86,
+      "actual_plate_hidden": "DL4U6573"
+    },
+    {
+      "id": 16,
+      "plate_raw": "DL3MTW2505",
+      "node_id": "SEC1-N2",
+      "timestamp": "2026-09-18T02:18:54.651867",
+      "confidence": 0.91,
+      "actual_plate_hidden": "DL3MTW2505"
+    },
+    {
+      "id": 41,
+      "plate_raw": "DL10K9764",
+      "node_id": "SEC1-N1",
+      "timestamp": "2026-09-18T02:19:03.651867",
+      "confidence": 0.94,
+      "actual_plate_hidden": "DL10K9764"
+    },
+    {
+      "id": 5,
+      "plate_raw": "DL12FM7518",
+      "node_id": "SEC2-N2",
+      "timestamp": "2026-09-18T02:19:19.651867",
+      "confidence": 0.98,
+      "actual_plate_hidden": "DL12FM7518"
+    },
+    {
+      "id": 9,
+      "plate_raw": "DL5QJ6066",
+      "node_id": "SEC4-N2",
+      "timestamp": "2026-09-18T02:19:22.651867",
+      "confidence": 0.9,
+      "actual_plate_hidden": "DL5QJ6066"
+    },
+    {
+      "id": 31,
+      "plate_raw": "DL10S0751",
+      "node_id": "SEC2-N2",
+      "timestamp": "2026-09-18T02:19:41.651867",
+      "confidence": 0.97,
+      "actual_plate_hidden": "DL10S0751"
+    },
+    {
+      "id": 8,
+      "plate_raw": "DL5PXK3594",
+      "node_id": "SEC2-N2",
+      "timestamp": "2026-09-18T02:19:55.651867",
+      "confidence": 0.94,
+      "actual_plate_hidden": "DL5PXK3594"
+    },
+    {
+      "id": 29,
+      "plate_raw": "DL3DT8831",
+      "node_id": "SEC3-N1",
+      "timestamp": "2026-09-18T02:19:57.651867",
+      "confidence": 0.98,
+      "actual_plate_hidden": "DL3DT8831"
+    },
+    {
+      "id": 17,
+      "plate_raw": "DL3MTW2505",
+      "node_id": "SEC2-N2",
+      "timestamp": "2026-09-18T02:20:23.439065",
+      "confidence": 0.98,
+      "actual_plate_hidden": "DL3MTW2505"
+    },
+    {
+      "id": 2,
+      "plate_raw": "DL4U6573",
+      "node_id": "SEC4-N1",
+      "timestamp": "2026-09-18T02:20:24.448905",
+      "confidence": 0.88,
+      "actual_plate_hidden": "DL4U6573"
+    },
+    {
+      "id": 6,
+      "plate_raw": "DL12FM7518",
+      "node_id": "SEC1-N2",
+      "timestamp": "2026-09-18T02:20:35.834539",
+      "confidence": 0.92,
+      "actual_plate_hidden": "DL12FM7518"
+    },
+    {
+      "id": 19,
+      "plate_raw": "DL10ESE6217",
+      "node_id": "SEC2-N2",
+      "timestamp": "2026-09-18T02:20:44.651867",
+      "confidence": 0.88,
+      "actual_plate_hidden": "DL10ESE6217"
+    },
+    {
+      "id": 21,
+      "plate_raw": "DL6R1170",
+      "node_id": "SEC4-N2",
+      "timestamp": "2026-09-18T02:20:52.651867",
+      "confidence": 0.95,
+      "actual_plate_hidden": "DL6R1170"
+    },
+    {
+      "id": 4,
+      "plate_raw": "DL5RFI0917",
+      "node_id": "SEC2-N2",
+      "timestamp": "2026-09-18T02:21:12.250382",
+      "confidence": 0.99,
+      "actual_plate_hidden": "DL5RFI0917"
+    },
+    {
+      "id": 10,
+      "plate_raw": "DL5QJ6066",
+      "node_id": "SEC4-N1",
+      "timestamp": "2026-09-18T02:21:14.459535",
+      "confidence": 0.86,
+      "actual_plate_hidden": "DL5QJ6066"
+    },
+    {
+      "id": 23,
+      "plate_raw": "DL2J5882",
+      "node_id": "SEC1-N1",
+      "timestamp": "2026-09-18T02:21:20.651867",
+      "confidence": 0.92,
+      "actual_plate_hidden": "DL2J5882"
+    },
+    {
+      "id": 35,
+      "plate_raw": "DL8HWT2616",
+      "node_id": "SEC3-N1",
+      "timestamp": "2026-09-18T02:21:26.651867",
+      "confidence": 0.89,
+      "actual_plate_hidden": "DL8HWT2616"
+    },
+    {
+      "id": 36,
+      "plate_raw": "DL8HWT2616",
+      "node_id": "SEC4-N1",
+      "timestamp": "2026-09-18T02:21:27.651867",
+      "confidence": 0.86,
+      "actual_plate_hidden": "DL8HWT2616"
+    },
+    {
+      "id": 38,
+      "plate_raw": "DL5F9293",
+      "node_id": "SEC2-N2",
+      "timestamp": "2026-09-18T02:21:28.720144",
+      "confidence": 0.95,
+      "actual_plate_hidden": "DL5F9293"
+    },
+    {
+      "id": 32,
+      "plate_raw": "DL11U6917",
+      "node_id": "SEC1-N1",
+      "timestamp": "2026-09-18T02:21:59.651867",
+      "confidence": 0.94,
+      "actual_plate_hidden": "DL11U6917"
+    },
+    {
+      "id": 27,
+      "plate_raw": "DL11U1308",
+      "node_id": "SEC1-N2",
+      "timestamp": "2026-09-18T02:22:14.651867",
+      "confidence": 0.89,
+      "actual_plate_hidden": "DL11U1308"
+    },
+    {
+      "id": 3,
+      "plate_raw": "DL4U6573",
+      "node_id": "SEC4-N2",
+      "timestamp": "2026-09-18T02:22:18.967176",
+      "confidence": 0.98,
+      "actual_plate_hidden": "DL4U6573"
+    },
+    {
+      "id": 20,
+      "plate_raw": "DL10ESE6217",
+      "node_id": "SEC1-N2",
+      "timestamp": "2026-09-18T02:22:20.603471",
+      "confidence": 0.99,
+      "actual_plate_hidden": "DL10ESE6217"
+    },
+    {
+      "id": 22,
+      "plate_raw": "DL6R1170",
+      "node_id": "SEC4-N1",
+      "timestamp": "2026-09-18T02:22:29.956562",
+      "confidence": 0.88,
+      "actual_plate_hidden": "DL6R1170"
+    },
+    {
+      "id": 37,
+      "plate_raw": "DL8HWT2616",
+      "node_id": "SEC4-N2",
+      "timestamp": "2026-09-18T02:23:00.295175",
+      "confidence": 0.86,
+      "actual_plate_hidden": "DL8HWT2616"
+    },
+    {
+      "id": 28,
+      "plate_raw": "DL11U1308",
+      "node_id": "SEC2-N2",
+      "timestamp": "2026-09-18T02:23:33.029065",
+      "confidence": 0.89,
+      "actual_plate_hidden": "DL11U1308"
+    },
+    {
+      "id": 15,
+      "plate_raw": "DL14W6228",
+      "node_id": "SEC1-N1",
+      "timestamp": "2026-09-18T02:23:43.410138",
+      "confidence": 0.86,
+      "actual_plate_hidden": "DL14W6228"
+    },
+    {
+      "id": 40,
+      "plate_raw": "DL12IE5515",
+      "node_id": "SEC3-N1",
+      "timestamp": "2026-09-18T02:24:07.501060",
+      "confidence": 0.87,
+      "actual_plate_hidden": "DL12IE5515"
+    },
+    {
+      "id": 7,
+      "plate_raw": "DL12FM7518",
+      "node_id": "SEC1-N1",
+      "timestamp": "2026-09-18T02:25:34.458942",
+      "confidence": 0.91,
+      "actual_plate_hidden": "DL12FM7518"
+    },
+    {
+      "id": 11,
+      "plate_raw": "DL5QJ6066",
+      "node_id": "SEC2-N2",
+      "timestamp": "2026-09-18T02:26:03.584957",
+      "confidence": 0.86,
+      "actual_plate_hidden": "DL5QJ6066"
+    },
+    {
+      "id": 30,
+      "plate_raw": "DL3DT8831",
+      "node_id": "SEC2-N2",
+      "timestamp": "2026-09-18T02:26:20.648456",
+      "confidence": 0.98,
+      "actual_plate_hidden": "DL3DT8831"
+    },
+    {
+      "id": 24,
+      "plate_raw": "DL2J5882",
+      "node_id": "SEC1-N2",
+      "timestamp": "2026-09-18T02:26:30.656579",
+      "confidence": 0.98,
+      "actual_plate_hidden": "DL2J5882"
+    },
+    {
+      "id": 18,
+      "plate_raw": "DL3MTW2505",
+      "node_id": "SEC4-N2",
+      "timestamp": "2026-09-18T02:26:31.839518",
+      "confidence": 0.99,
+      "actual_plate_hidden": "DL3MTW2505"
+    },
+    {
+      "id": 33,
+      "plate_raw": "DL11U6917",
+      "node_id": "SEC1-N2",
+      "timestamp": "2026-09-18T02:27:12.217849",
+      "confidence": 0.86,
+      "actual_plate_hidden": "DL11U6917"
+    },
+    {
+      "id": 12,
+      "plate_raw": "DL5QJ6066",
+      "node_id": "SEC1-N2",
+      "timestamp": "2026-09-18T02:27:21.979735",
+      "confidence": 0.87,
+      "actual_plate_hidden": "DL5QJ6066"
+    },
+    {
+      "id": 25,
+      "plate_raw": "DL2J5882",
+      "node_id": "SEC2-N2",
+      "timestamp": "2026-09-18T02:27:48.905100",
+      "confidence": 0.88,
+      "actual_plate_hidden": "DL2J5882"
+    },
+    {
+      "id": 34,
+      "plate_raw": "DL11U6917",
+      "node_id": "SEC2-N2",
+      "timestamp": "2026-09-18T02:28:41.192256",
+      "confidence": 0.95,
+      "actual_plate_hidden": "DL11U6917"
+    },
+    {
+      "id": 13,
+      "plate_raw": "DL5QJ6066",
+      "node_id": "SEC1-N1",
+      "timestamp": "2026-09-18T02:31:52.382020",
+      "confidence": 0.96,
+      "actual_plate_hidden": "DL5QJ6066"
+    },
+    {
+      "id": 26,
+      "plate_raw": "DL2J5882",
+      "node_id": "SEC3-N1",
+      "timestamp": "2026-09-18T02:32:58.991094",
+      "confidence": 0.88,
+      "actual_plate_hidden": "DL2J5882"
+    }
+  ],
+  "watchlist": [
+    {
+      "plate": "DL2J5882",
+      "reason": "Suspected stolen",
+      "added_by": "admin",
+      "added_at": "2026-09-17T02:17:16.651867"
+    }
+  ],
+  "anomaly_vehicles": [
+    "DL8HWT2616",
+    "DL12IE5515"
+  ],
+  "watchlist_vehicle": "DL2J5882"
+}
